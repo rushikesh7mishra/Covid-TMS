@@ -16,3 +16,5 @@ Create a database with name covidtmsdb
 Import covidtmsdb.sql file(given inside the zip package in SQL file folder)
 Run the script http://localhost/covid-tms
  
+ # Link TO The Video of Google Drive
+ https://drive.google.com/file/d/1-6M1tQFW7KelArCCKuBHsnr_zE3Y2WhY/view?usp=drivesdk
